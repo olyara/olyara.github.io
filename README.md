@@ -1,6 +1,6 @@
 # olyara.github.io
 My homework:
-1. CV: https://olyara.github.io/CV/  
+1. CV: <a href="https://olyara.github.io/CV/">https://olyara.github.io/CV/</a>  
     2 files: cv_en.html and cv_uk.html
 2. Shopping list https://olyara.github.io/Shopping-list/  
     1 file: task1.html
