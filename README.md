@@ -7,3 +7,4 @@ My homework:
             - [Text](https://olyara.github.io/Anchors/task2_2.html)
 4. Styles: - [Simple](https://olyara.github.io/styles-simple/)  
            - [Hard](https://olyara.github.io/styles-hard/)
+           - [Smashing HTML5!](https://olyara.github.io/smashingHTML5/)
