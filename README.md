@@ -10,5 +10,6 @@ My homework:
            - [Smashing HTML5!](https://olyara.github.io/smashingHTML5/)
 5. CSS_Photoshop: -[Features](https://olyara.github.io/features-photoshop/)
                   - [Footer](https://olyara.github.io/footer-photoshop/)
-6. CSS_Selectors: -[Products](https://olyara.github.io/products/)                 
+6. CSS_Selectors: -[Products](https://olyara.github.io/products/)     
+                  -[CSS Diner Shopping List](https://olyara.github.io/css-diner-shopping-list/)
 
