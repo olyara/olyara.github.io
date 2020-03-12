@@ -12,4 +12,6 @@ My homework:
                   - [Footer](https://olyara.github.io/footer-photoshop/)
 6. CSS_Selectors: -[Products](https://olyara.github.io/products/)     
                   -[CSS Diner Shopping List](https://olyara.github.io/css-diner-shopping-list/)
+7. CSS_Box-model: [Features](https://olyara.github.io/features-box-model/)
+                  [CSS Weather Forecast](https://olyara.github.io/forecast/)
 
