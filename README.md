@@ -16,3 +16,5 @@ My homework:
                   -[CSS Weather Forecast](https://olyara.github.io/forecast/)
 8. CSS FlexBox: -[Coffee](https://olyara.github.io/coffee/)
                 -[Articles](https://olyara.github.io/articles-flexbox/)
+9. CSS Fonts: - [Willow Crest](https://olyara.github.io/willow-crest/)
+              - [Like tears in rain](https://olyara.github.io/like-tears-in-rain/)
