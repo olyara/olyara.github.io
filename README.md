@@ -5,6 +5,7 @@ My homework:
 2. [Shopping list](https://olyara.github.io/2shopping-list/)
    Anchors: - [Table of contents](https://olyara.github.io/2anchors/task2_1.html) 
             - [Text](https://olyara.github.io/2anchors/task2_2.html)
+3. Git itself
 4. CSS Beginning: - [Simple](https://olyara.github.io/4styles-simple/)  
            - [Hard](https://olyara.github.io/4styles-hard/)
            - [Smashing HTML5!](https://olyara.github.io/4smashingHTML5/)
@@ -23,3 +24,4 @@ My homework:
 11. CSS BEM: -[Cahee](https://olyara.github.io/11cahee/)     
 12. CSS Forms: -[Cahee: form and footer](https://olyara.github.io/10cahee-form/)
                -[Sign in form](https://olyara.github.io/10sign-in/)
+13. CSS SVG: -[Cahee](https://olyara.github.io/13cahee/)
