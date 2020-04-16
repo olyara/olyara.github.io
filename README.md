@@ -1,5 +1,7 @@
 # olyara.github.io
 My homework:
+
+MODULE I:
 1. CV: - [English version](https://olyara.github.io/1CV/cv_en.html)
        - [Ukrainian version](https://olyara.github.io/1CV/cv_uk.html)
 2. [Shopping list](https://olyara.github.io/2shopping-list/)
@@ -27,3 +29,6 @@ My homework:
 13. CSS SVG: -[Cahee](https://olyara.github.io/13cahee/)
 14. CSS Preprocessor: -[Our team](https://olyara.github.io/14our-team/)
 15. CSS Responsive web design: -[Cahee](https://olyara.github.io/14cahee/)
+
+MODULE II:
+1. JS Introduction: [Tasks](https://olyara.github.io/js-intro/index.html)
