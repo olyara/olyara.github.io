@@ -32,4 +32,4 @@ MODULE I:
 
 MODULE II:
 1. JS Introduction: [Tasks](https://olyara.github.io/js-intro/index.html)
-2. JS Data types and operators: [Tasks](https://olyara.github.io/js_2_data-types_operators/index.html)
+2. JS Data types and operators: [Tasks](https://olyara.github.io/23_js_data-types_operators/.)
