@@ -31,5 +31,14 @@ MODULE I:
 15. CSS Responsive web design: -[Cahee](https://olyara.github.io/14cahee/)
 
 MODULE II:
-1. JS Introduction: [Tasks](https://olyara.github.io/js-intro/index.html)
-2. JS Data types and operators: [Tasks](https://olyara.github.io/23_js_data-types_operators/.)
+1. JS Introduction: [Tasks](https://github.com/olyara/22_js-intro/blob/master/js/script.js)
+2. JS Data types and operators: [Tasks](https://github.com/olyara/23_js_data-types_operators/blob/master/js/script.js)
+3. JS Cycles: [Tasks](https://github.com/olyara/24_js_cycles/blob/master/js/script.js)
+4. JS Functions: [Tasks](https://github.com/olyara/25_js_functions/blob/master/js/script.js)
+5. JS Objects: [Tasks](https://github.com/olyara/26_js_objects/blob/master/js/script.js)
+6. JS Arrays: [Tasks](https://github.com/olyara/27_js_arrays/blob/master/js/script.js)
+7. JS Classes: [Tasks](https://github.com/olyara/28_js_classes/blob/master/js/script.js)
+8. JS DOM: [Tasks](https://github.com/olyara/29_js_DOM/blob/master/js/script.js)
+9. Events
+10. JS jQuery: [FarCry4](https://olyara.github.io/31_js_jQuery_FarCry4/)
+               [Calculator](https://olyara.github.io/31_js_jQuery_calculator/)
