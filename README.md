@@ -39,6 +39,8 @@ MODULE II:
 6. JS Arrays: [Tasks](https://github.com/olyara/27_js_arrays/blob/master/js/script.js)
 7. JS Classes: [Tasks](https://github.com/olyara/28_js_classes/blob/master/js/script.js)
 8. JS DOM: [Tasks](https://github.com/olyara/29_js_DOM/blob/master/js/script.js)
-9. Events
-10. JS jQuery: [FarCry4](https://olyara.github.io/31_js_jQuery_FarCry4/)
-               [Calculator](https://olyara.github.io/31_js_jQuery_calculator/)
+9. JS Events: [Task1](https://github.com/olyara/30_js_events)
+10. JS jQuery: -[FarCry4](https://olyara.github.io/31_js_jQuery_FarCry4/)
+               -[Calculator](https://olyara.github.io/31_js_jQuery_calculator/)
+11. JS Slick slider: [Works-slider](https://olyara.github.io/32_js_slick-slider/index.html)               
+               
