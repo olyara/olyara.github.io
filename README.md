@@ -42,5 +42,8 @@ MODULE II:
 9. JS Events: [Task1](https://github.com/olyara/30_js_events)
 10. JS jQuery: -[FarCry4](https://olyara.github.io/31_js_jQuery_FarCry4/)
                -[Calculator](https://olyara.github.io/31_js_jQuery_calculator/)
-11. JS Slick slider: [Works-slider](https://olyara.github.io/32_js_slick-slider/index.html)               
+11. JS Slick slider: [Works-slider](https://olyara.github.io/32_js_slick-slider/index.html)       
+
+MODULE III:
+1. CSS Animations: -[Card deck](https://olyara.github.io/37_css-animations_card-deck/)
                
