@@ -46,4 +46,5 @@ MODULE II:
 
 MODULE III:
 1. CSS Animations: -[Card deck](https://olyara.github.io/37_css-animations_card-deck/)
+2. CSS Grid layout: [Articles](https://olyara.github.io/38_css-grid-layout/)
                
