@@ -14,11 +14,10 @@ MODULE I:
                 -[Articles](https://olyara.github.io/8articles-flexbox/)
 9. CSS Fonts: - [Willow Crest](https://olyara.github.io/9willow-crest/)
               - [Like tears in rain](https://olyara.github.io/9like-tears-in-rain/)
-10. CSS Position&Transormation: -[Blog](https://olyara.github.io/10blog/)
-11. CSS BEM: -[Cahee](https://olyara.github.io/11cahee/)     
+10. CSS Position&Transormation: -[Blog](https://olyara.github.io/10blog/) 
 12. CSS Forms: -[Cahee: form and footer](https://olyara.github.io/10cahee-form/)
                -[Sign in form](https://olyara.github.io/10sign-in/)
-13. CSS SVG: -[Cahee](https://olyara.github.io/13cahee/)
+13. CSS SVG: -[Cahee: section "Our services"](https://olyara.github.io/13cahee/)
 14. CSS Preprocessor: -[Our team](https://olyara.github.io/14our-team/)
 15. CSS Responsive web design: -[Cahee](https://olyara.github.io/14cahee/)
 
