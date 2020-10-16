@@ -3,9 +3,7 @@ My homework:
 
 MODULE I:
 
-4. CSS Beginning: - [Simple](https://olyara.github.io/4styles-simple/)  
-           - [Hard](https://olyara.github.io/4styles-hard/)
-           - [Smashing HTML5!](https://olyara.github.io/4smashingHTML5/)
+4. CSS Beginning: - [Smashing HTML5!](https://olyara.github.io/4smashingHTML5/)
 5. CSS Photoshop: -[Features](https://olyara.github.io/5features-photoshop/)
                   -[Footer](https://olyara.github.io/5footer-photoshop/)
 6. CSS Selectors: -[Products](https://olyara.github.io/6products/)     
