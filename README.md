@@ -1,5 +1,5 @@
 # olyara.github.io
-My homework:
+Beetroot Academy. Course "Front-end development". My homework:
 
 MODULE I:
 
