@@ -15,7 +15,6 @@ MODULE I:
 9. CSS Fonts: - [Willow Crest](https://olyara.github.io/9willow-crest/)
               - [Like tears in rain](https://olyara.github.io/9like-tears-in-rain/)
 10. CSS Position&Transormation: -[Blog](https://olyara.github.io/10blog/)
-                                -[Homepage](https://olyara.github.io/10homepage/)
 11. CSS BEM: -[Cahee](https://olyara.github.io/11cahee/)     
 12. CSS Forms: -[Cahee: form and footer](https://olyara.github.io/10cahee-form/)
                -[Sign in form](https://olyara.github.io/10sign-in/)
