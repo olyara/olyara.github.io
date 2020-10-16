@@ -2,12 +2,7 @@
 My homework:
 
 MODULE I:
-1. CV: - [English version](https://olyara.github.io/1CV/cv_en.html)
-       - [Ukrainian version](https://olyara.github.io/1CV/cv_uk.html)
-2. [Shopping list](https://olyara.github.io/2shopping-list/)
-   Anchors: - [Table of contents](https://olyara.github.io/2anchors/task2_1.html) 
-            - [Text](https://olyara.github.io/2anchors/task2_2.html)
-3. Git itself
+
 4. CSS Beginning: - [Simple](https://olyara.github.io/4styles-simple/)  
            - [Hard](https://olyara.github.io/4styles-hard/)
            - [Smashing HTML5!](https://olyara.github.io/4smashingHTML5/)
